@@ -3,7 +3,7 @@
 A complete end-to-end data analysis project on the Superstore retail dataset — covering data ingestion, SQL querying, Python EDA, and Power BI visualization across 4 fiscal years (2014–2017).
 
 ---
-
+ 
 ## 📁 Project Structure
 
 ```
